@@ -18,3 +18,45 @@
 <h3 align="center">
   Full-stack developer with an artistic background
 </h3>
+
+ ### 👩‍💻 About Me :
+Hi, I'm **Lydia**, a **Full-Stack Developer** from Greece.
+
+- 🗿 Former sculptress and lifelong art enthusiast with a passion for aesthetic, user-centered design.
+- 🧩 Background in managerial roles across cultural and hospitality sectors.
+- 💻 Proficient in front-end development using React, JavaScript, and CSS to create responsive, dynamic applications.
+- 🌱 Actively seeking new opportunities and creative collaborations in tech and beyond.
+- Let’s connect via LinkedIn [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-lydia--elli--giannoulatou-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lydia-elli-giannoulatou/)
+
+
+
+---
+
+### 🛠️ Languages and Tools :
+
+<div>
+ 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original.svg" title="Express" alt="express" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-plain.svg" title="Mongodb" alt="mongodb" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://www.svgrepo.com/download/354202/postman-icon.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" title="Tailwindcss" alt="Tailwindcss" width="40" height="40"/>&nbsp;   
+
+</div>
+
+---
+
+### 🔥 My Stats :
+<!---
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YasmeenOthman&theme=dark&background=000000)](https://git.io/streak-stats)
+-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lydiaegiannoulatou&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
