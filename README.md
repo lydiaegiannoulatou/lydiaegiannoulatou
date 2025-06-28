@@ -25,10 +25,8 @@ Hi, I'm **Lydia**, a **Full-Stack Developer** from Greece.
 - 🗿 Former sculptress and lifelong art enthusiast with a passion for aesthetic, user-centered design.
 - 🧩 Background in managerial roles across cultural and hospitality sectors.
 - 💻 Proficient in front-end development using React, JavaScript, and CSS to create responsive, dynamic applications.
-- 🌱 Actively seeking new opportunities and creative collaborations in tech and beyond.
-- Let’s connect via LinkedIn [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-lydia--elli--giannoulatou-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lydia-elli-giannoulatou/)
-
-
+- 🌱 Constantly learning and striving to enhance my skills in technology and development.
+- 🎶 Passionate about music, dancing, and puzzles.
 
 ---
 
@@ -64,3 +62,9 @@ Hi, I'm **Lydia**, a **Full-Stack Developer** from Greece.
 - 💻 Fullstack or Frontend Developer Roles
 - 🤝 Freelance or Collaborative Projects
 - 📚 Opportunities to Grow and Improve My Skills
+
+---
+
+### Let's Connect !
+
+- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-lydia--elli--giannoulatou-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lydia-elli-giannoulatou/)
