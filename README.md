@@ -47,16 +47,20 @@ Hi, I'm **Lydia**, a **Full-Stack Developer** from Greece.
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/download/354202/postman-icon.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" title="Tailwindcss" alt="Tailwindcss" width="40" height="40"/>&nbsp;   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" title="Tailwindcss" alt="Tailwindcss" width="40" height="40"/>&nbsp;   
 
 </div>
 
 ---
 
 ### 🔥 My Stats :
-<!---
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YasmeenOthman&theme=dark&background=000000)](https://git.io/streak-stats)
--->
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lydiaegiannoulatou&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+
+### 🚀 Currently Open To :
+
+- 💻 Fullstack or Frontend Developer Roles
+- 🤝 Freelance or Collaborative Projects
+- 📚 Opportunities to Grow and Improve My Skills
