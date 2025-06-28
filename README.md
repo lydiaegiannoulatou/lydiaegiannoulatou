@@ -65,6 +65,6 @@ Hi, I'm **Lydia**, a **Full-Stack Developer** from Greece.
 
 ---
 
-### Let's Connect !
+### 🤝 Let's Connect!
 
 - [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-lydia--elli--giannoulatou-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lydia-elli-giannoulatou/)
