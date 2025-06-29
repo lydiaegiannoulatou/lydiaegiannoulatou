@@ -53,8 +53,9 @@ Hi, I'm **Lydia**, a **Full-Stack Developer** from Greece.
 
 ### 🔥 My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lydiaegiannoulatou&layout=compact&theme=vision-friendly-dark)](https://github.com/lydiaegiannoulatou)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lydiaegiannoulatou&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+---
 
 ### 🚀 Currently Open To :
 
